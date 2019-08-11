@@ -1,4 +1,3 @@
-## About ##
 ![](https://github.com/MicrohexHQ/sgi-stl/blob/master/U/AI/ArtBoard%20Image%20(352).jpg)
 
 这个是SGI（Silicon Graphics Computer Systems, Inc.）版本的STL实现，是侯捷老师最推荐的可读性最高的一种STL实现。GCC 中用的就是这个版本的实现。
